@@ -1,1 +1,1 @@
-alert(Sage)
+alert('Sage')
